@@ -1,4 +1,4 @@
-Project: Complete Sales and Inventory System with Credit Management using PHP
+Project: Complete Catering Stock and Inventory System with Credit Management using PHP
 This is an advanced Sales and Inventory System programmed using PHP. The PHP extension used is MySQLi. This system manages the company stocks, sales, and customer credits. The system can also manage multiple branches of the company and the admin can assign a system user to a specific branch and this user can only manage the data only to his/her branch. The administrator of this system can generate the overall report per branch and all branches.
 
 Here’s the list of features on this system:
