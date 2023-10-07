@@ -1,0 +1,59 @@
+Project: Complete Sales and Inventory System with Credit Management using PHP
+This is an advanced Sales and Inventory System programmed using PHP. The PHP extension used is MySQLi. This system manages the company stocks, sales, and customer credits. The system can also manage multiple branches of the company and the admin can assign a system user to a specific branch and this user can only manage the data only to his/her branch. The administrator of this system can generate the overall report per branch and all branches.
+
+Here’s the list of features on this system:
+Purchase:
+Stock-in
+Payment
+Credit
+Products
+History Log
+Reorder Level
+
+Maintenance:
+Category
+Customer
+Credit Applicants
+Product
+Supplier
+
+Reports:
+Inventory Report
+Sales Report
+Account Receivables
+Branch Income
+Purchase Request
+
+==============================================================================================================================================================================================================================================
+How To Run??
+Above all, to run this project you must have installed a virtual server i.e XAMPP on your PC. 
+Follow the following steps after Starting Apache and MySQL in XAMPP:
+
+
+1st Step: Firstly, Extract the file
+2nd Step: After that, Copy the main project folder
+3rd Step: So, you need to Paste in xampp/htdocs/
+
+Further, Now Connecting Database
+
+4th Step: So, for now, Open a browser and go to URL “http://localhost/phpmyadmin/”
+5th Step: After that, Click on the databases tab
+6th Step: So, Create a database naming “inventory” and then click on the import tab
+7th Step: Certainly, Click on browse file and select “inventory.sql” file which is inside the “db” folder
+8th Step: Meanwhile, click on Go button.
+
+
+After Creating Database,
+
+9th Step: Moreover, Open a browser and go to URL
+
+[http://localhost/ahira] and for  admin [http://localhost/ahira/admin]
+
+
+Account info
+User: admin
+pass: admin
+
+Admin Account info
+User: administrator
+pass: admin
